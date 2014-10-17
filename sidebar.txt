@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hve:home|Door43 (hve)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hve|d43-hve repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hve/archive/master.zip|d43-hve.zip]]
+
+**Recent Changes**
+{{changes>ns = hve}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hve|Ethnologue data]]
+
